@@ -26,7 +26,6 @@ sayed@bangalore:~$ whoami
 
 I'm Sayed. I build things that actually ship — products, experiences, and occasionally some questionable terminal configurations at 2am. First-year CSE student at LPU with a specialization in AI/ML, co-founder of a premium Y2K brand called [Splotch](https://splotch.in), and someone who genuinely can't tell where the code ends and the design begins. I work across the full stack, care deeply about how things look and feel, and think good software and good clothing have more in common than people realize. I hate the common btw.
 
-Active on [LeetCode](https://leetcode.com) · [HackerRank](https://hackerrank.com) · [HackerEarth](https://hackerearth.com)
 
 ---
 
