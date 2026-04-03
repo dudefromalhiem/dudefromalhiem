@@ -65,7 +65,6 @@ Active on [LeetCode](https://leetcode.com) · [HackerRank](https://hackerrank.co
 
 A premium Y2K brand my friend and I founded and built entirely from the ground up — not just the clothes, but the entire digital infrastructure. Firebase Auth, Firestore, Razorpay payment verification, EmailJS order confirmations, a React frontend, serverless Vercel functions, and a WebGL-powered UI that doesn't apologize for how it looks. I handle everything from security audits to drop campaigns.
 
-`live` → **[splotch.in](https://splotch.in)**
 
 <br>
 
@@ -110,7 +109,6 @@ An AI-driven multilingual career guidance platform built specifically for studen
 
 A 3D-animated, multi-scene WebGL portfolio. Simple yet dripped out web resume because a plain PDF resume felt like showing up underdressed.
 
-`live` → **[dudefromalhiem.github.io/Portfolio](https://dudefromalhiem.github.io/Portfolio)**
 
 <br>
 
