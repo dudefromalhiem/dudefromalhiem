@@ -211,7 +211,7 @@ A web portfolio for a friend.
   ─────────────────────────────────────────────
   i like games. but i love improvement.
   ─────────────────────────────────────────────
-         LPU · CSE · AI/ML · Batch 2029
+       LPU · CSE · AI/ML · Batch 2029
 ```
 
 </div>
