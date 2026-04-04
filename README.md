@@ -92,17 +92,9 @@ An AI-driven multilingual career guidance platform built specifically for studen
 
 ```
     ┌──────────────────────────────────────────┐
-    │  dudefromalhiem@alhiem.dev               │
+    │  dudefromalhiem portfolio                │
     │  ─────────────────────────────────────── │
-    │  > initializing portfolio...             │
-    │  > scene 01 — ocean loaded      [ OK ]   │
-    │  > scene 02 — city loaded       [ OK ]   │
-    │  > scene 03 — midnight coast    [ OK ]   │
-    │  > three.js runtime             [ ON ]   │
-    │  > scroll-driven animation      [ ON ]   │
-    │  ─────────────────────────────────────── │
-    │  resume ready. you may proceed.          │
-    └──────────────────────────────────────────┘
+
 ```
 
 A 3D-animated, multi-scene WebGL portfolio. Simple yet dripped out web resume because a plain PDF resume felt like showing up underdressed.
