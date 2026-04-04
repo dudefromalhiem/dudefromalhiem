@@ -13,9 +13,8 @@
 sayed@bangalore:~$ whoami
 ──────────────────────────────────────────────────────
   alias       :  AlHiem
-  role        :  B.Tech CSE (AI/ML) · Founder · Builder
+  role        :  B.Tech CSE (AI/ML) · Builder
   affiliation :  Lovely Professional University · Splotch
-  ambassador  :  Google Student Ambassador — Algo-N-Hunt
   status      :  [ GRINDING ]
 ──────────────────────────────────────────────────────
 ```
