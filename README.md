@@ -14,7 +14,6 @@ ALHEIM:~$ whoami
 ──────────────────────────────────────────────────────
   alias       :  AlHiem
   role        :  B.Tech CSE (AI/ML) · Builder
-  affiliation :  Lovely Professional University · Splotch
   status      :  [ GRINDING ]
 ──────────────────────────────────────────────────────
 ```
